@@ -19,7 +19,7 @@ public class HomeController {
 	ServiceI si;
 	
 
-	@RequestMapping("/get")
+	@RequestMapping("/getStudent")
 	public Student get()
 	{
 
